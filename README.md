@@ -39,6 +39,10 @@ Our 2D-CNN requires 50x50 images. We use Bresinham's line algorithm to connect e
 
 ## Pipeline: ###
 
+![Biometric System Flowchart](Biometric%20system%20flowchart.jpg)
+
+![Biometric Flowchart CNN](Biometric%20Flowchart%20CNN.png)
+
 ## Models: ##
 We chose our models in part based on [the 2020 paper]. Many of their models showed promising results for static authentication, so it was natural to adapt them for continuous authentication. It is important for our research to represent models from many ML paradigms. 
 
